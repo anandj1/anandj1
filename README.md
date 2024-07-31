@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me LinkedIn - https://www.linkedin.com/in/anandjsharma or X - https://x.com/Anand12215
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
 
 <!---
 anandj1/anandj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
